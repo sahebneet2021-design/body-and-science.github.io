@@ -1,0 +1,1 @@
+No open-source license has been selected for this repository yet. Until a license is added, do not assume that the source code, text, branding or documents are licensed for reuse beyond rights granted by applicable law. Consult legal advice before selecting a license.
